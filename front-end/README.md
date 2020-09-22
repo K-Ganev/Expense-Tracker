@@ -1,4 +1,6 @@
 A simple Expense tracker i built to practice some React with hooks.Specifically the useReducer hook.
+With this simple app you can track how much money you've made and how much money you've spent.
+At the top it will give you the difference between the two.That way you can see if you have money left or that you have spent too much.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
